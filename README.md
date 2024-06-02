@@ -1,1 +1,1 @@
-# COPS-Infosec
+# COPS (Infosec)
